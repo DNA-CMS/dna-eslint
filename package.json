@@ -1,0 +1,21 @@
+{
+  "name": "dna-eslint",
+  "version": "0.0.1",
+  "author": "Dmitry Voronenkov <divomen@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DNA-CMS/dna-eslint.git"
+  },
+  "license": "MIT",
+  "main": "src/index.js",
+  "np": {
+    "yarn": true,
+    "branch": "master"
+  },
+  "dependencies": {
+    "confusing-browser-globals": "^1.0.11"
+  },
+  "devDependencies": {
+    "np": "^7.6.0"
+  }
+}
